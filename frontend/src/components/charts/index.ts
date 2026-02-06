@@ -1,0 +1,1 @@
+export { EvidenceDistributionChart } from './EvidenceDistributionChart';
